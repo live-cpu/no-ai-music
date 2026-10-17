@@ -5,6 +5,8 @@
 
 > 🔒 **보안 안내:** 사용자의 API 키는 프로그램 외부 파일이 아닌 **'OS 자격 증명(keyring)'**에 안전하게 격리 보관됩니다.
 
+10/17 다운로드: (https://github.com/live-cpu/no-ai-music/releases/tag/noaimusic2)
+
 ---
 
 ### 📢 [필독] 첫 실행 시 "PC 보호" 경고창 해결 방법
