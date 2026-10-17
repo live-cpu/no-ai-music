@@ -1,0 +1,4 @@
+# PyInstaller 빌드 시 생기는 임시/결과 폴더 제외
+build/
+dist/
+*.spec
