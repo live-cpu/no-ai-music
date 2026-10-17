@@ -1,4 +1,17 @@
-# PyInstaller 빌드 시 생기는 임시/결과 폴더 제외
+
+# Python virtual environments
+.venv/
+.venv_old/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller build artifacts
 build/
 dist/
 *.spec
+
+# Secrets and local configuration
+.env
+*.log
